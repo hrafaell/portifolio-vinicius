@@ -1,0 +1,21 @@
+.solid-logo{
+    width:40%;
+position: absolute;
+right: 10%;
+top: 50%;
+transform: translateY(-50%);
+max-height: 90%;
+
+
+        @media screen and (max-width:1200px) {
+          width: 60%;
+          position:relative ;
+          right: auto;
+        }
+
+
+
+
+}
+
+

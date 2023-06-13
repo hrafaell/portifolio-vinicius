@@ -1,0 +1,24 @@
+.fotoLateral {
+    width: 40%;
+    position: absolute;
+    right: 10%;
+    top: 50%;
+    transform: translateY(-50%);
+
+
+}
+
+
+ @media screen and (max-width:1200px) {
+
+
+ 
+    .fotoLateral{
+        width: 60%;
+        position: absolute;
+        transform: none;
+        right: 25%;
+        top: unset;
+       
+    }
+ }

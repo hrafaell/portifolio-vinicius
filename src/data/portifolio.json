@@ -1,0 +1,28 @@
+{
+    "portifolio": [
+        {
+            "cover" : "/portifolio/images/logos.png",
+            "title" : "LOGOS",
+            " description" :" Baners e Logos para sites",
+           "url" : "https://www.behance.net/gallery/93628231/Logos"
+        },
+        {
+            "cover":"/portifolio/images/ecomerces.png",
+            "title": "E-comerces",
+            " description": "Ecomerces desenvolvidos para clientes",
+           "url":"https://www.behance.net/gallery/135151991/E-Commerce-Sites"
+        },
+         {
+            "cover":"/portifolio/images/papelaria.png",
+            "title": "Papelaria",
+            " description": "Arte para Papelarias",
+           "url":"https://www.behance.net/gallery/121536889/Papelaria"
+        },
+          {
+            "cover":"/portifolio/images/logos.png",
+            "title": "Story e Destaques",
+            " description": "Arte para divugação no Instagram",
+           "url":"https://www.behance.net/gallery/100024797/Storys-e-Destaques"
+        }
+    ]
+}
